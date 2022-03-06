@@ -1,0 +1,21 @@
+
+<html>
+    <head>
+        <title>COLLEGE ADMISSION FORM</title>
+        <form method = post>
+
+            <h2>ENTER THE STUDENT DETAILS</h2>
+            <hr>
+            <p>Name:<input type = "text" Name = "userid" size="30"></p>
+            <p>Address: <input type = "text" Name = "Address" size="30"></p>
+            <p>Pincode:<input type = "text" Name = "Pincode" size="30"></p>
+            <p>Contact:<input type = "text" Name = "Contact" size="30"></p>
+            
+            <p>Date of Birth:<input type = "text" Name = "Date Of Birth" size="30"></p>
+            <hr>
+            <input type="SUBMIT" VALUE = "SUBMIT.">
+            <input type="RESET" VALUE = "SEND INFOR.">
+        </form>
+    </head>
+    <body></body>
+</html>
